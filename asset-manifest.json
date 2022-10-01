@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-fb-code-along/static/css/main.e8b8a657.css",
+    "main.js": "/react-fb-code-along/static/js/main.8daf7e49.js",
+    "index.html": "/react-fb-code-along/index.html",
+    "main.e8b8a657.css.map": "/react-fb-code-along/static/css/main.e8b8a657.css.map",
+    "main.8daf7e49.js.map": "/react-fb-code-along/static/js/main.8daf7e49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8b8a657.css",
+    "static/js/main.8daf7e49.js"
+  ]
+}
