@@ -10,7 +10,7 @@ export default function Shared() {
       <div className="sharedWrapper">
         <div className="sharedTop">
           <img
-            src="/assets/person/11.jpg"
+            src="assets/person/11.jpg"
             alt=""
             className="sharedProfileImg"
           />
